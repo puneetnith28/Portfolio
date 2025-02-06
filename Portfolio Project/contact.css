@@ -1,0 +1,60 @@
+body {
+    /* font-family: Helvetica Neue; */
+    /* font-family: Montserrat; */
+    font-family: Arial, Helvetica, sans-serif;
+    /* font-family: Caslon; */
+    background-color: #1d3557;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+  }
+  header {
+    text-align: center;
+    font-weight: 1000;
+    color: white;
+    background-color: #457b9d;
+    padding: 1rem 0;
+  }
+  #email {
+    text-align: center;
+    font-size: larger;
+    background-color: #a8dadc;
+    color: rgb(24, 23, 20);
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 2px 3px rgba(11, 11, 11, 0.1);
+  }
+  #phone {
+    text-align: center;
+    font-size: larger;
+    background-color: #a8dadc;
+    color: rgb(24, 23, 20);
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 2px 3px rgba(11, 11, 11, 0.1);
+  }
+  #address {
+    text-align:center;
+    font-size: larger;
+    background-color: #a8dadc;
+    color: rgb(24, 23, 20);
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 2px 3px rgba(11, 11, 11, 0.1);
+  }
+  #socialmedia {
+    text-align: center;
+    font-size: larger;
+    background-color: #a8dadc;
+    color: rgb(24, 23, 20);
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 2px 3px rgba(11, 11, 11, 0.1);
+  }
+  div :hover {
+       transform: scale(1.03);
+  }

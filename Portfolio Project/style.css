@@ -1,0 +1,102 @@
+body {
+  /* font-family: Helvetica Neue; */
+  /* font-family: Montserrat; */
+  font-family: Arial, Helvetica, sans-serif;
+  /* font-family: Caslon; */
+  background-color: #1d3557;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+header {
+  text-align: center;
+  font-weight: bolder;
+  color: white;
+  background-color: #457b9d;
+  padding: 1rem 0;
+}
+
+#navbar {
+  color: black;
+  background-color: #dfe6dc;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+  height: 45px;
+  display: flex;
+  justify-content: space-around;
+}
+#home:hover {
+  background: #4991be;
+  border-radius: 5px;
+  /* text-decoration: none; */
+}
+#projects:hover {
+  background: #4991be;
+  border-radius: 5px;
+}
+#blogs:hover {
+  background: #4991be;
+  border-radius: 5px;
+  /* text-decoration: none; */
+}
+#contacts:hover {
+  background: #4991be;
+  border-radius: 5px;
+}
+h2 {
+  display: flex;
+  justify-content: space-evenly;
+}
+#about {
+  text-align: left;
+  font-size: larger;
+  background-color: #a8dadc;
+  color: rgb(24, 23, 20);
+  padding: 2rem;
+  margin: 2rem;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(11, 11, 11, 0.1);
+}
+#academic {
+  text-align: left;
+  font-size: larger;
+  background-color: #a8dadc;
+  color: rgb(24, 23, 20);
+  padding: 2rem;
+  margin: 2rem;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(11, 11, 11, 0.1);
+}
+#skills {
+  text-align: left;
+  font-size: larger;
+  background-color: #a8dadc;
+  color: rgb(24, 23, 20);
+  padding: 2rem;
+  margin: 2rem;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(11, 11, 11, 0.1);
+}
+#mygoals {
+  text-align: left;
+  font-size: larger;
+  background-color: #a8dadc;
+  color: rgb(24, 23, 20);
+  padding: 2rem;
+  margin: 2rem;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(11, 11, 11, 0.1);
+}
+footer {
+  text-align: center;
+  color: white;
+  background-color: #457b9d;
+  padding: 1rem 0;
+}
+div:hover {
+  transform: scale(1.04);
+}
+a {
+  text-decoration: none;
+}

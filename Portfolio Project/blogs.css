@@ -1,0 +1,84 @@
+body {
+  /* font-family: Helvetica Neue; */
+  /* font-family: Montserrat; */
+  font-family: Arial, Helvetica, sans-serif;
+  /* font-family: Caslon; */
+  background-color: #1d3557;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+header {
+  text-align: center;
+  font-weight: bolder;
+  color: white;
+  background-color: #457b9d;
+  padding: 1rem 0;
+}
+#name {
+    font-weight: bolder;
+}
+h2 {
+  display: flex;
+  justify-content: space-evenly;
+}
+#welcome {
+  text-align: left;
+  font-size: larger;
+  background-color: #a8dadc;
+  color: rgb(24, 23, 20);
+  padding: 2rem;
+  margin: 2rem;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(11, 11, 11, 0.1);
+}
+#academic {
+    text-align: left;
+    font-size: larger;
+    background-color: #a8dadc;
+    color: rgb(24, 23, 20);
+    padding: 2rem;
+    margin: 2rem;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(11, 11, 11, 0.1);
+  }
+  #skill {
+    text-align: left;
+    font-size: larger;
+    background-color: #a8dadc;
+    color: rgb(24, 23, 20);
+    padding: 2rem;
+    margin: 2rem;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(11, 11, 11, 0.1);
+  }
+  #proj {
+    text-align: left;
+    font-size: larger;
+    background-color: #a8dadc;
+    color: rgb(24, 23, 20);
+    padding: 2rem;
+    margin: 2rem;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(11, 11, 11, 0.1);
+  }
+  #ahead {
+    text-align: left;
+    font-size: larger;
+    background-color: #a8dadc;
+    color: rgb(24, 23, 20);
+    padding: 2rem;
+    margin: 2rem;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(11, 11, 11, 0.1);
+  }
+  footer {
+    font-weight: 700;
+    text-align: center;
+    color: white;
+    background-color: #457b9d;
+    padding: 1rem 0;
+  }
+  div:hover{
+    transform: scale(1.04);
+  }
